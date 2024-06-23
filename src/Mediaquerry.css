@@ -1,0 +1,51 @@
+@media (max-width:370px){
+    .wholepage{height:1700px;scroll-behavior: smooth;}
+    .spinner{display: none;}
+    .header{height:80px;margin-bottom:40px;width: 85%;}
+    .header1{width:40%;height:55px;font-size:7px;}
+    .namelogo{font-size:10px;letter-spacing:1px}
+    .header2{height:20px;width:60px;font-size:6px;}
+    .mynameanim{width: 0%;font-size:10px;font-weight:500;letter-spacing:5px;height:15px;color: #ffffff;}
+    .gradient-text{font-size:25px;font-weight: 500;width: 70%;background-image: linear-gradient(to left, #ffffff 20%,#c800ff);-webkit-background-clip: text;
+        background-clip: text;color: transparent;}
+    .container1{background-color: rgba(255, 0, 0, 0);margin:20px auto;width:85%;display: flex;border: 1px solid rgba(255, 255, 255, 0);max-width: 100%;height:220px;}
+    .myimageg{height:160px;width:120px;margin:1px 0px 0px 140px;left:70px;}
+    .body3{
+        width:50%;height:154px;
+    border-radius:50%;box-shadow: 5px 5px 30px rgba(21, 2, 97, 0.682);margin:30px 0px 0px 162px;
+    clip-path: polygon(0% 0%, 120% 0%, 120% 80%, 120% 85%, 0% 85%, 0% 0%);right:200px;
+    background-color: #b000d3;position: relative;z-index:2
+    }
+    .body2{
+        color: rgb(255, 255, 255);font-weight: 300;font-size:6px;
+        margin: 40px 0px 0px;height:40px;border-left: 1px solid rgb(255, 0, 0);
+        width:200px;text-align: end;
+    }
+    .aboutimage{height:120px;width:120px;margin: 40px 0px 0px 0px;background-image: url('/src/images/llaptop12.jpg')}
+    .aboutmehaeding{font-size:25px;font-weight:500;margin: 40px 0px 0px 0px;background-image: linear-gradient(to left, #ffffff 20%,#c800ff);-webkit-background-clip: text; background-clip: text;color: transparent;}
+    .aboutmehaeding1{font-size:25px;width:auto;font-weight:500;margin:0px 0px 0px 0px;background-image: linear-gradient(to left, #ffffff 65%,#c800ff);-webkit-background-clip: text; background-clip: text;color: transparent;}
+    .aboutmehaeding2{font-size:25px;font-weight:500;margin:60px 0px 0px 160px;letter-spacing: 0px;background-image: linear-gradient(to left, #ffffff 20%,#c800ff);-webkit-background-clip: text; background-clip: text;color: transparent;}
+    .aboutmehaedingu1{font-size:25px;font-weight:500;margin:380px 0px 0px 0px;color:#ffffff;background-image: linear-gradient(to left, #ffffff 40%,#c800ff);-webkit-background-clip: text; background-clip: text;color: transparent;}
+
+    .protitle1{margin:5px 0px 0px 210px;font-weight:300;font-size:7px}
+    .protitleu1{margin:20px 0px 0px 140px;color: rgb(255, 255, 255);font-weight:500;font-size:6px;height:20px;width:60px;border-radius: 30px;background:linear-gradient(to left, #8f00b7, #650079);display: flex;align-items: center;justify-content: center;}
+    .protitle121{margin:28px 0px 0px 0px;font-weight:300;font-size:6px;height:80px;width:85%;border-left: 1px solid rgb(255, 0, 0);padding-left: 20px;}
+    .projectimg1{height:110px;width:200px;margin:150px 0px 0px 100px;border-radius:4px;}
+    .protitle2{margin:180px 0px 0px 0px;font-weight:400;font-size:5px;color: rgb(255, 255, 255);height:80px;width:90px;border: 1px solid rgba(179, 255, 0, 0);}
+    .projectimg2{height:110px;width:200px;margin:50px 0px 0px 0px;border-radius:4px;}
+    .protitle12{margin:80px 0px 0px 210px;font-weight:400;font-size:5px;color: rgb(255, 255, 255);height:40px;width:90px;border: 1px solid rgba(179, 255, 0, 0);}
+
+    .aboutpara{height:60px;width:170px;margin:20px 0px 0px 0px;font-size:6px;text-align:right;padding-right:10px;background-color: #8f00b700;}   
+    .contactbutton2{height:20px;width:60px;font-size:6px;margin:20px 40px 0px 0px}
+    .gridskill{
+        display: grid;grid-template-columns: 1fr 1fr;margin:30px 0px 0px 0px;font-size:6px;font-weight:300;border:1px solid rgba(255, 255, 0, 0);
+        height:200px;width:300px;column-gap:90px;
+    }
+    .skillsbox{height:6px;width:100px;border: 1px solid rgb(0, 0, 0);background:linear-gradient(to right,rgb(234, 0, 255),rgb(91, 0, 92))}
+    .contactboxlower{margin:20px 0px 0px 0px;font-size:6px;border-left: 1px solid rgb(255, 0, 0);padding-left: 20px;}
+    .body2-a{font-weight: 400;font-size:6px;margin: 0px 0px 0px 0px;border: 1px solid rgba(125, 52, 52, 0);height:auto;width:100%;}
+
+
+
+}
+
